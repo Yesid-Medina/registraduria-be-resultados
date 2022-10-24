@@ -1,7 +1,8 @@
-Proyecto Registraduria Nacional de Colombia
-    registraduria-be-resultados
+Proyecto Registraduria Nacional de Colombia 
 
-Proyecto degistraduría - back-end de resultados
+registraduria-be-resultados
+
+back-end de resultados
 
 git init
 git add README.md or (git add .)
