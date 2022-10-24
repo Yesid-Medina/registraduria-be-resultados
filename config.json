@@ -1,0 +1,7 @@
+{
+"url-backend": "127.0.0.1",
+"port": 9999,
+
+"data-db-connection":"mongodb+srv://Tatiana:Mnbv9874@proyecto.vaxnwo8.mongodb.net/proyecto-db?retryWrites=true&w=majority",
+"name-db": "proyecto-db"
+}
